@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center"> Hi there, my name is Sergio Pereira 👋</h1> 
 
-<!--
-**tweegio/tweegio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About me:</h2>
+<!--Intro start-->
+<p align="left">
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on some freelance and personal projects.
+- 🌱 I'm currently learning computer security
+- 📫 How to reach me: **sergio.pereira.proyect@gmail.com**
+- 😄 Pronouns: tweegio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,css,html,bootstrap,nodejs,mysql,sqlite,git,github,vscode,linux,ai,ps&perline=12" />
+  </a>
+</p>
+<br>
