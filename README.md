@@ -4,8 +4,9 @@
 <!--Intro start-->
 <p align="left">
 
-- 🔭 I'm currently working on some freelance and personal projects.
-- 🌱 I'm currently learning computer security
+- I'm a Junior developer, computer technician and student of Computer Engineering.
+- I'm currently working on some freelance and personal projects.
+- 🌱 I'm currently learning computer security.
 - 📫 How to reach me: **sergio.pereira.proyect@gmail.com**
 - 😄 Pronouns: tweegio
 
