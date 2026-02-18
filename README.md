@@ -24,6 +24,6 @@
     </div>
 </body>
 </html>
-Credit: [tweegio](https://github.com/tweegio)
+Credit: https://github.com/tweegio
 
 Last Edited on: 03/08/2024
