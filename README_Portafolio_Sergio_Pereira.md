@@ -37,12 +37,6 @@ Estudiante de Ingeniería Informática en la UNDAV — Buenos Aires, Argentina.
 
 ---
 
-## 📊 Stats
-
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=tweegio&show_icons=true&theme=dark&hide_border=true)
-
----
-
 💼 [Portfolio](https://tweegio.github.io/Portafolio_sergio_pereira/) &nbsp;·&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/sergio-pereira-development/)
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
