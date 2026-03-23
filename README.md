@@ -1,14 +1,14 @@
 # ¡Hola, soy Sergio Pereira 👋
 
 **Desarrollador Front-End Jr · Instructor IT · Técnico Informático**  
-Estudiante de Ingeniería Informática en la UNDAV — Buenos Aires, Argentina.
+Estudiante de Ingeniería Informática (UNDAV).
 
 ---
 
 ## 🚀 Sobre mí
 
 - 💻 Desarrollo interfaces web con **HTML, CSS, JavaScript y React**
-- 🐍 Uso **Python y Flask** para lógica de backend y automatizaciones
+- 🐍 Uso **Python** para lógica de backend y automatizaciones
 - 👨‍🏫 Instructor de Desarrollo Web en **Instituto CEA** — enseño HTML, CSS, JS y Python
 - 🔧 +4 años de experiencia en soporte técnico presencial y remoto
 - 🎓 Estudiante de **Ingeniería Informática** en la UNDAV (2° año)
