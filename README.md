@@ -1,6 +1,6 @@
 # ¡Hola, soy Sergio Pereira 👋
 
-**Desarrollador Front-End · Técnico · InformáticoInstructor IT**  
+**Desarrollador Front-End · Técnico · Instructor IT**  
 Estudiante de Ingeniería Informática (UNDAV).
 
 ---
